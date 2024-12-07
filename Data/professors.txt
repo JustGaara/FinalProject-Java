@@ -49,7 +49,7 @@
 55:prof_55:02.47:0|
 56:prof_56:02.67:0|, IN-26, IN-28, IN-10, IN-25, IN-24
 57:prof_57:02.70:SC7, SC1, G5, FG9, SC8, FG11, FG4, FG6, 100, F...|, IN-10, 300, FG5
-58:prof_58:02.94:VFX Jeux vidéo|, IN-28, IN-26, IN-24, NaN
+58:prof_58:02.94:VFX Jeux vid o|, IN-28, IN-26, IN-24, NaN
 5:prof_5:00.014:0|, IN-3, IN-4, IN-7
 60:prof_60:03.43:0|, AI16, AI04, AI08, AI05, IN-5, AI07, IN-3
 61:prof_61:03.64:MV2, IN-28, IN-10, 420, IN-26, IN-25, IN-24, I...|, IN-27, DG1

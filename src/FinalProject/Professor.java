@@ -1,7 +1,6 @@
 package FinalProject;
 
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.Set;
 
 public class Professor implements Comparable<Professor>{
@@ -19,7 +18,7 @@ public class Professor implements Comparable<Professor>{
         this.listOfAffectedCourses = null;
     }
 
-    /*public void makeListOfAffectedCourses() {
+    public void makeListOfAffectedCourses() {
         if (listOfAffectedCourses == null) {
             listOfAffectedCourses = new ArrayList<>();
         }
@@ -30,7 +29,7 @@ public class Professor implements Comparable<Professor>{
             makeListOfAffectedCourses();
         }
         listOfAffectedCourses.add(course);
-    }*/
+    }
 
     @Override
     public int compareTo(Professor other) {
